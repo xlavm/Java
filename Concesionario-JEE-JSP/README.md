@@ -1,5 +1,13 @@
 # Concesionario
 
+## Architecture 
+
+![architecture](docs/architecture.png)
+
+## Model
+
+![model](docs/model.png)
+
 ## Initial Configuration [Local]
 
 1. Import project in Netbeans  
