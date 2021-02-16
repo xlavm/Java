@@ -28,11 +28,6 @@
 
     ![create-db4](docs/create-db4.png)
 
-3. Config the Persistence Unit    
-    The __default is for Derby
-
-    ![persistence](docs/persistence.png)
-
 ## Executing 
 
 1. Clean and Build 
@@ -43,5 +38,7 @@
 
     ![run](docs/run.png)
     
+## Possible Problems
+
 
 

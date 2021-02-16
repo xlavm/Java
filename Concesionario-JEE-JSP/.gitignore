@@ -25,3 +25,5 @@ hs_err_pid*
 # Java and Netbeans files
 build/
 dist/
+nbproject
+build.xml
