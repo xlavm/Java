@@ -20,7 +20,7 @@
     > Select Glassfish Server
 
 2. Create Data Base
-    use the script `db-script/concesionario_db-ScriptDerby.sql` and create `concesionario_db` in `Java DB`
+    use the script `databases/concesionario_db-derby.sql` and create `concesionario_db` in `Java DB`
 
     ![create-db](docs/create-db.png)
 
