@@ -1,5 +1,7 @@
 # University
 
+JSF - JEE - JPA - EJB - Web Application
+
 <br>
 
 ## Initial Configuration [Local]
